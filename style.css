@@ -24,3 +24,25 @@ img {
     line-height: 22px;
     color: #E1624F;
 }
+
+h1, h2, h3 {
+    color: #1B1B1B;
+}
+
+h1 {
+    line-height: 49px;
+    font-size: 36px;
+    margin: 8px 0 40px;
+}
+
+h2 {
+    line-height: 44px;
+    margin: 2px 0 8px;
+    font-size: 32px;
+}
+
+h3 {
+    line-height: 38px;
+    font-size: 28px;
+    margin: 20px 0 4px;
+}
