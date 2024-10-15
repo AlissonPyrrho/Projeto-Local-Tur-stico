@@ -6,3 +6,21 @@
 :root {
     font-family: 'Open Sans', sans-serif;
 }
+
+img {
+    border-radius: 28px;
+    width: 100%;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 1120px;
+    margin: 120px auto 89px;
+}
+
+.headline {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #E1624F;
+}
