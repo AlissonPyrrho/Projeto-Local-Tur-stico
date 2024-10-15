@@ -46,3 +46,16 @@ h3 {
     font-size: 28px;
     margin: 20px 0 4px;
 }
+
+.subtitle {
+    text-align: center;
+    margin-top: 24px;
+    line-height: 22px;
+    font-size: 16px;
+    font-style: italic;
+    color: #333333;
+}
+
+p {
+    font-size: 16px;
+}
