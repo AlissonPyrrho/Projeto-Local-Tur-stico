@@ -59,3 +59,22 @@ h3 {
 p {
     font-size: 16px;
 }
+
+main h2 + p {
+    margin-bottom: 23px;
+}
+
+main div img {
+    height: 375px;
+    object-fit: cover;
+    margin-top: 44px;
+}
+
+ul {
+    padding-left: 25px;
+    font-weight: bold;
+}
+
+ul li::marker {
+    color: #333333;
+}
