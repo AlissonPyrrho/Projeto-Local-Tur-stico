@@ -105,3 +105,17 @@ ul li::marker {
 .budget-orange {
     color: #E95E10;
 }
+
+footer {
+    vertical-align: middle;
+    text-align: center;
+    color: #333333;
+    padding-bottom: 48px;
+    line-height: 150%;
+}
+
+footer img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
