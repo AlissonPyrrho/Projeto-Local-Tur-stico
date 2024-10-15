@@ -89,3 +89,19 @@ ul li::marker {
 .divider + p {
     text-align: center;
 }
+
+.history-blue {
+    color: #0C51A7;
+}
+
+.couples-purple {
+    color: #591B98;
+}
+
+.families-pink {
+    color: #E5245E;
+}
+
+.budget-orange {
+    color: #E95E10;
+}
